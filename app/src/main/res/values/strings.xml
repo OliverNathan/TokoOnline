@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TokoOnline</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="keranjang">Keranjang</string>
+    <string name="akun">Akun</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Fragment Home</string>
+    <string name="fragment_keranjang">Fragment Keranjang</string>
+    <string name="fragment_akun">Fragment Akun</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+</resources>
